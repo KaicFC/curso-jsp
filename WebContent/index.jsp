@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title> Curso JSP </title>
+<title> Curso JSP - JDEV </title>
 </head>
 <body>
 
